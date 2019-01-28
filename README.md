@@ -10,3 +10,6 @@ ClassModifier can help you:
 * Can help you change the logical behavior of a Jar file by modifying a class
 * You can override private methods, change access modifier for variables of a class using ClassModifier.
 * Many other possibilities....
+
+Tutorial:
+https://cooltrickshome.blogspot.com/2019/01/classmodifier-utility-to-easily-modify.html
